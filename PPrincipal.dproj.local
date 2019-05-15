@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/03 15:00:05.000.431,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/26 10:33:19.000.103,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/10 16:19:33.000.470,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/10 16:52:23.000.877,C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\UPrincipal.dfm</Transaction>
+    <Transaction>2019/05/10 16:52:23.000.877,C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\UPrincipal.pas</Transaction>
+    <Transaction>2019/05/10 16:52:31.000.037,C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\PPrincipal.dproj</Transaction>
+    <Transaction>2019/05/10 16:58:44.000.795,=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\Unit1.pas</Transaction>
+    <Transaction>2019/05/10 16:59:00.000.437,C:\Users\Marco\Desktop\Projeto InfoSistema Prod\Unit1.pas=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\UCliente.pas</Transaction>
+    <Transaction>2019/05/10 17:01:24.000.795,=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\Unit1.pas</Transaction>
+    <Transaction>2019/05/10 17:01:34.000.148,C:\Users\Marco\Desktop\Projeto InfoSistema Prod\Unit1.pas=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\UEndereco.pas</Transaction>
+    <Transaction>2019/05/10 17:36:05.000.609,=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\UConsultaRest.pas</Transaction>
+    <Transaction>2019/05/11 18:59:23.000.471,=C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\Unit1.pas</Transaction>
+    <Transaction>2019/05/11 19:29:54.000.243,C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\UDMCliente.dfm=C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\Unit1.dfm</Transaction>
+    <Transaction>2019/05/11 19:29:54.000.243,C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\UDMCliente.pas=C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\Unit1.pas</Transaction>
+    <Transaction>2019/05/11 19:30:39.000.114,=C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\Unit1.pas</Transaction>
+    <Transaction>2019/05/11 19:31:07.000.488,C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\UClienteControle.pas=C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\Unit1.pas</Transaction>
+    <Transaction>2019/05/12 11:13:43.000.588,=C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\Unit1.pas</Transaction>
+    <Transaction>2019/05/12 11:14:06.000.306,C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\Unit1.pas=C:\Users\Marco\Desktop\Projeto-Rest-InfoSist-master\Projeto InfoSistema Prod\UClienteXML.pas</Transaction>
+    <Transaction>2019/05/14 15:42:22.000.317,=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\uEmail.pas</Transaction>
+    <Transaction>2019/05/14 15:42:28.000.301,=C:\Users\Marco\Desktop\Projeto InfoSistema Prod\uEnvioEmail.pas</Transaction>
+    <Transaction>2019/05/15 12:19:44.987,C:\Users\Marco\Desktop\Projeto InfoSistema Prod\UConsultaRest.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
